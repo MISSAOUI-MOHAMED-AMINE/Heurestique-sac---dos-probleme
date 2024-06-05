@@ -1,0 +1,26 @@
+filename,sac capacity,valeur_total,combination capacity,duree
+files\test100-SC(1).txt,101,112,91,0.0
+files\test100-SC(2).txt,101,62,41,0.0
+files\test100-SC(3).txt,101,111,89,0.0
+files\test100-SC(4).txt,101,102,81,0.000997781753540039
+files\test100-SC(5).txt,101,69,48,0.0
+files\test250-SC(1).txt,101,112,91,0.0
+files\test250-SC(2).txt,101,62,41,0.0
+files\test250-SC(3).txt,101,99,68,0.0
+files\test250-SC(4).txt,101,102,81,0.0
+files\test250-SC(5).txt,101,69,48,0.0009996891021728516
+files\test500-SC(1).txt,101,112,91,0.0
+files\test500-SC(2).txt,101,62,41,0.0
+files\test500-SC(3).txt,101,99,68,0.0
+files\test500-SC(4).txt,101,102,81,0.0
+files\test500-SC(5).txt,125,153,122,0.0
+files\test1000-SC(1).txt,101,112,91,0.0
+files\test1000-SC(2).txt,101,62,41,0.0
+files\test1000-SC(3).txt,154,185,144,0.0
+files\test1000-SC(4).txt,201,211,180,0.0
+files\test1000-SC(5).txt,249,258,217,0.0
+files\test2000-SC(1).txt,101,112,91,0.0010113716125488281
+files\test2000-SC(2).txt,202,166,135,0.0010242462158203125
+files\test2000-SC(3).txt,304,294,243,0.0010004043579101562
+files\test2000-SC(4).txt,400,321,280,0.00099945068359375
+files\test2000-SC(5).txt,494,258,217,0.0009980201721191406
